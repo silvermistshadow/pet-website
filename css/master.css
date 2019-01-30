@@ -1,0 +1,13 @@
+.dark-theme {
+  background-color: black;
+  color: #FFF;
+}
+
+.light-theme {
+  background-color: white;
+  color: black;
+}
+
+#switch-light {
+  display: none;
+}
